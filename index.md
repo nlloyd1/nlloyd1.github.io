@@ -1,5 +1,4 @@
-<h1>Undergraduate Computer Science Student</h1>
-
+<a href= 'https://nlloyd1.github.io/aboutme/'>About Me</a>
 <h2>Contact</h2>
 <p>Email: natalielloyd878@gmail.com</p>
 <a href= 'https://www.linkedin.com/in/natalie-lloyd/'>LinkedIn</a>
