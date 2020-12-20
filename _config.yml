@@ -1,7 +1,4 @@
 theme: jekyll-theme-slate
 title: Natalie Lloyd
-<<<<<<< Updated upstream
-=======
 
-#Header 1
->>>>>>> Stashed changes
+<h1>Header</h1>
