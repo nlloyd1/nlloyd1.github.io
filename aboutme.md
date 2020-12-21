@@ -22,7 +22,7 @@ permalink: https://nlloyd1.github.io/aboutme/
 <p>University of Iowa Recreational Services- Intramural Soccer Official (February 2020 to Present)</p>
 
 
-<h3>Skills</32>
+<h3>Skills</h3>
 <h4>Programming Languages</h4>
 <ul>Python</ul>
 <ul>Java</ul>
