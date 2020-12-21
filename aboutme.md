@@ -14,6 +14,7 @@ permalink: https://nlloyd1.github.io/aboutme/
 <h2>Certificates</h2>
 <p>Kirkwood Community College</p>
 <ul>Iowa Coaching Authorization</ul>
+<h2>Skills</h2>
 <h4>Programming Languages</h4>
 <ul>Python</ul>
 <ul>Java</ul>
