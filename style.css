@@ -19,6 +19,8 @@ body {
     overflow: hidden;
     background-color: #282828;
     overflow: hidden;
+    width: 100%;
+    padding: 12px;
   }
 .navbox{
     float: left;
@@ -35,21 +37,21 @@ body {
     background-color: #FFFFFF;
     color: #000000;
 } 
+.about-me {
+    padding: 20px;
+}
 .intro {
     font-family: system-ui;
     font-size: 18;
-    padding: 20px;
+    width: 75%;
+    display: block;
+    float: left;
 }
-.footer {
-    position: fixed;
-    left: 0;
-    bottom: 0;
-    width: 100%;
-    background-color: #383838;
-    color: #FFFFFF;
-    text-align: left;
-    padding: 20px;
-    }
+.LI-profile-badge {
+    width: 25%;
+    display: block;
+    float: right;
+}
 a:link {
     color: #FFFFFF;
     text-decoration: none;
@@ -85,5 +87,15 @@ img:hover {
 }
 #projects span:hover {
     display: block;
+}
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #383838;
+    color: #FFFFFF;
+    text-align: left;
+    padding: 20px;
 }
 
