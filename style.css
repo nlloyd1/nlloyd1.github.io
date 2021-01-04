@@ -4,7 +4,7 @@ body {
     flex-direction: column;
 }
 .header {
-    background-color: #282828;
+    background-color: #6f1a7a;
     color: #FFFFFF;
     font-family: 'Verdana', fantasy;
     width: 100%;
@@ -17,7 +17,7 @@ body {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #282828;
+    background-color: #6f1a7a;
     overflow: hidden;
     width: 100%;
     padding: 12px;
@@ -87,7 +87,7 @@ img:hover {
     left: 0;
     bottom: 0;
     width: 100%;
-    background-color: #383838;
+    background-color: #6f1a7a;
     color: #FFFFFF;
     text-align: left;
     padding: 20px;
