@@ -38,7 +38,7 @@ body {
     color: #000000;
 } 
 .about-me {
-    padding: 20px;
+    padding: 30px;
 }
 .intro {
     font-family: system-ui;
@@ -61,20 +61,20 @@ a:visited {
 }
 #cv {
     font-family: "Verdana", sans-serif;
-    padding: 20px;
+    padding: 40px;
 }
 #project-summary {
     font-family: "Lucidia", sans-serif;
     font-size: 18;
     width: 100%;
-    margin: 20px;
+    margin: 30px;
 }
 img {
     border: 1px solid #000000;
     border-radius: 4px;
     height: 225px;
     width: 525px;
-    margin: 20px;
+    margin: 30px;
     display: flex;
     float: left;
 }
