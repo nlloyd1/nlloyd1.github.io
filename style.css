@@ -5,8 +5,8 @@ body {
     width: 100%;
 }
 .header {
-    background-color: #c574cf;
-    color: #c574cf;
+    background-color: #7e1c8b;
+    color: #7e1c8b;
     font-family: 'Verdana', fantasy;
     width: calc(100% + 16px);
     padding: 12px;
@@ -20,7 +20,7 @@ body {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #c574cf;
+    background-color: #7e1c8b;
     overflow: hidden;
     width: calc(100% + 16px);
     padding: 12px;
@@ -31,7 +31,7 @@ body {
 }
 .navbox a {
     display: block;
-    color: #c574cf;
+    color: #7e1c8b;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
@@ -110,8 +110,8 @@ img:hover {
     left: 0;
     bottom: 0;
     width: 100%;
-    background-color: #c574cf;
-    color: #c574cf;
+    background-color: #7e1c8b;
+    color: #7e1c8b;
     text-align: left;
     padding: 20px;
 }
