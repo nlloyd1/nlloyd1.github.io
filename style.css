@@ -5,8 +5,8 @@ body {
     width: 100%;
 }
 .header {
-    background-color: #7e1c8b;
-    color: #7e1c8b;
+    background-color: #557fda;
+    color: #557fda;
     font-family: 'Verdana', fantasy;
     width: calc(100% + 16px);
     padding: 12px;
@@ -20,7 +20,7 @@ body {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #7e1c8b;
+    background-color: #557fda;
     overflow: hidden;
     width: calc(100% + 16px);
     padding: 12px;
@@ -31,7 +31,7 @@ body {
 }
 .navbox a {
     display: block;
-    color: #7e1c8b;
+    color: #557fda;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
@@ -49,24 +49,13 @@ body {
 .intro {
     font-family: system-ui;
     font-size: 18;
-    width: 70%;
+    width: 100%;
     grid-column-start: 1;
     grid-column-end: 2;
-    background-color: #a4f19a;
     padding: 10px;
     /*
     display: block;
     float: left;
-    */
-}
-.LI-profile-badge {
-    width: 20%;
-    grid-column-start: 3;
-    grid-column-end: 3;
-    float: center;
-    /*
-    display: block;
-    float: right;
     */
 }
 a:link {
@@ -110,8 +99,8 @@ img:hover {
     left: 0;
     bottom: 0;
     width: 100%;
-    background-color: #7e1c8b;
-    color: #7e1c8b;
+    background-color: #557fda;
+    color: #557fda;
     text-align: left;
     padding: 20px;
 }
