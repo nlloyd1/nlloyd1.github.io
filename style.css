@@ -93,6 +93,7 @@ img:hover {
 #projects {
     font-family: "Lucidia", sans-serif;
     line-height: 1;
+    padding: 30px;
 }
 .footer {
     position: relative;
